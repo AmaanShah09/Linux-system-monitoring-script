@@ -1,4 +1,4 @@
-#System Monitor Script
+# System Monitor Script
 System Monitor is a simple shell script to monitor CPU, memory, and disk usage and generate alerts when thresholds are exceeded.
 
 Features
