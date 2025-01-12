@@ -8,6 +8,9 @@ Update resource thresholds dynamically.
 
 Usage:
 Start Monitoring: ./system-monitor.sh monitor
+
 View Alerts: ./system-monitor.sh alerts
+
 View Metrics: ./system-monitor.sh metrics
+
 Update Thresholds: ./system-monitor.sh set-threshold "cpu|memory|disk" "value"
