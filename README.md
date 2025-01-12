@@ -7,6 +7,7 @@ Log metrics and alerts to files.
 Update resource thresholds dynamically.
 
 Usage:
+
 Start Monitoring: ./system-monitor.sh monitor
 
 View Alerts: ./system-monitor.sh alerts
